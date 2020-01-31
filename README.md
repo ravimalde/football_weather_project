@@ -1,6 +1,6 @@
 # Executive Summary
 
-The goal of this project was to determine certain performance characteristics of division 1 and 2 German football teams over the 2011 season. The questions that were to be answered were as follows:
+The goal of this project was to determine certain performance characteristics of division 1 and 2 German football teams over the 2011 season. The questions to be answered were as follows:
 
 1. What were the total number of goals scored by each team during the season?
 2. How many wins did each team earn during the season?
